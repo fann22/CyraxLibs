@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "changelogs": {
+    "1.0.0": [
+      "example1",
+      "example2"
+    ]
+  }
+}
