@@ -1,9 +1,23 @@
 {
-  "version": 1,
-  "changelogs": {
-    "1.0.0": [
-      "example1",
-      "example2"
-    ]
-  }
+    "version": 1786729294,
+    "changelogs": {
+        "1.0.0": [
+            "New:    /cd command.",
+            "New:    Mod zoom.",
+            "New:    Auto click GT's Gazette.",
+            "New:    Auto leave mods.",
+            "Change: Use ImGui as dialog instead of Growtopia's default.",
+            "New:    /config command.",
+            "New:    Antigravity.",
+            "Change: This Cyrax's news prompt now only shows 1x, not every login.",
+            "New:    /daw command.",
+            "New:    /config command."
+        ],
+        "1.0.1": [
+            "Fix:    Auto gazette overrides GT's \"/news\" command.",
+            "Change: Set auto skip gazette default value to false.",
+            "New:    Auto \"/me\" (usefull if you got maladies).",
+            "Change: Config file now uses nlohmann::json (previously using direct cast to binary)."
+        ]
+    }
 }
