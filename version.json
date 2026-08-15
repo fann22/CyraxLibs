@@ -16,6 +16,9 @@
             "New:    /config command.",
             "New:    Antigravity.",
             "Change: Cyrax's news prompt now only shows 1x, not every login.",
+            "New:    /bd command.",
+            "New:    /dd command.",
+            "New:    /wd command.",
             "New:    /daw command.",
             "New:    /config command."
         ]
