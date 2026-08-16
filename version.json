@@ -10,7 +10,7 @@
             "New:    /accountInfo command (shortcut: /accInfo).",
             "New:    /back command (shortcut: /b).",
             "New:    /warp command (shortcut: /w).",
-            "New:    Show ping on the left side of your GrowID.",
+            "New:    Show ping on the left side of your GrowID."
         ],
         "v1.0.0": [
             "New:    /cd command.",
