@@ -1,11 +1,16 @@
 {
-    "version": 1786729294,
+    "version": 1786898738,
     "changelogs": {
         "v1.0.1": [
             "Fix:    Auto gazette overrides GT's \"/news\" command.",
             "Change: Set auto skip gazette default value to false.",
             "New:    Auto \"/me\" (usefull if you got maladies).",
-            "Change: Config file now uses nlohmann::json (previously using direct cast to binary)."
+            "Change: Config file now uses nlohmann::json (previously using direct cast to binary).",
+            "Fix:    Several lagging issues.",
+            "New:    /accountInfo command (shortcut: /accInfo).",
+            "New:    /back command (shortcut: /b).",
+            "New:    /warp command (shortcut: /w).",
+            "New:    Show ping on the left side of your GrowID.",
         ],
         "v1.0.0": [
             "New:    /cd command.",
