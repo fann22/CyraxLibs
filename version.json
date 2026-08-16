@@ -1,5 +1,5 @@
 {
-    "version": 1786898738,
+    "version": 1786898739,
     "changelogs": {
         "v1.0.1": [
             "Fix:    Auto gazette overrides GT's \"/news\" command.",
